@@ -32,7 +32,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://pbs.twimg.com/profile_images/1668441807229964288/aNn2xckA_400x400.jpg"
+              src="https://pbs.twimg.com/profile_images/1719165061619658752/M87Y1K7y_400x400.jpg"
               alt="Koushik Roy"
               width="192"
               height="192"
