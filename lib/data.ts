@@ -83,7 +83,7 @@ export const skillsData = [
   "Git",
   "Tailwind",
   "Prisma",
-  //   "MongoDB",
+  "MongoDB",
   //   "Redux",
   //   "GraphQL",
   //   "Apollo",
